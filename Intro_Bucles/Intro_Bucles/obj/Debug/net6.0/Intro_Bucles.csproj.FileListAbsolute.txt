@@ -1,0 +1,15 @@
+C:\SourceCode\.Net-Course\Intro_Bucles\Intro_Bucles\obj\Debug\net6.0\Intro_Bucles.csproj.AssemblyReference.cache
+C:\SourceCode\.Net-Course\Intro_Bucles\Intro_Bucles\obj\Debug\net6.0\Intro_Bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\.Net-Course\Intro_Bucles\Intro_Bucles\obj\Debug\net6.0\Intro_Bucles.AssemblyInfoInputs.cache
+C:\SourceCode\.Net-Course\Intro_Bucles\Intro_Bucles\obj\Debug\net6.0\Intro_Bucles.AssemblyInfo.cs
+C:\SourceCode\.Net-Course\Intro_Bucles\Intro_Bucles\obj\Debug\net6.0\Intro_Bucles.csproj.CoreCompileInputs.cache
+C:\SourceCode\.Net-Course\Intro_Bucles\Intro_Bucles\bin\Debug\net6.0\Intro_Bucles.exe
+C:\SourceCode\.Net-Course\Intro_Bucles\Intro_Bucles\bin\Debug\net6.0\Intro_Bucles.deps.json
+C:\SourceCode\.Net-Course\Intro_Bucles\Intro_Bucles\bin\Debug\net6.0\Intro_Bucles.runtimeconfig.json
+C:\SourceCode\.Net-Course\Intro_Bucles\Intro_Bucles\bin\Debug\net6.0\Intro_Bucles.dll
+C:\SourceCode\.Net-Course\Intro_Bucles\Intro_Bucles\bin\Debug\net6.0\Intro_Bucles.pdb
+C:\SourceCode\.Net-Course\Intro_Bucles\Intro_Bucles\obj\Debug\net6.0\Intro_Bucles.dll
+C:\SourceCode\.Net-Course\Intro_Bucles\Intro_Bucles\obj\Debug\net6.0\refint\Intro_Bucles.dll
+C:\SourceCode\.Net-Course\Intro_Bucles\Intro_Bucles\obj\Debug\net6.0\Intro_Bucles.pdb
+C:\SourceCode\.Net-Course\Intro_Bucles\Intro_Bucles\obj\Debug\net6.0\Intro_Bucles.genruntimeconfig.cache
+C:\SourceCode\.Net-Course\Intro_Bucles\Intro_Bucles\obj\Debug\net6.0\ref\Intro_Bucles.dll

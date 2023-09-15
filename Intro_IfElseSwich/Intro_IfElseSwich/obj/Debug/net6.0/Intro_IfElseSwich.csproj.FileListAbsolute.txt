@@ -1,0 +1,15 @@
+C:\SourceCode\.Net-Course\Intro_IfElseSwich\Intro_IfElseSwich\bin\Debug\net6.0\Intro_IfElseSwich.exe
+C:\SourceCode\.Net-Course\Intro_IfElseSwich\Intro_IfElseSwich\bin\Debug\net6.0\Intro_IfElseSwich.deps.json
+C:\SourceCode\.Net-Course\Intro_IfElseSwich\Intro_IfElseSwich\bin\Debug\net6.0\Intro_IfElseSwich.runtimeconfig.json
+C:\SourceCode\.Net-Course\Intro_IfElseSwich\Intro_IfElseSwich\bin\Debug\net6.0\Intro_IfElseSwich.dll
+C:\SourceCode\.Net-Course\Intro_IfElseSwich\Intro_IfElseSwich\bin\Debug\net6.0\Intro_IfElseSwich.pdb
+C:\SourceCode\.Net-Course\Intro_IfElseSwich\Intro_IfElseSwich\obj\Debug\net6.0\Intro_IfElseSwich.csproj.AssemblyReference.cache
+C:\SourceCode\.Net-Course\Intro_IfElseSwich\Intro_IfElseSwich\obj\Debug\net6.0\Intro_IfElseSwich.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\.Net-Course\Intro_IfElseSwich\Intro_IfElseSwich\obj\Debug\net6.0\Intro_IfElseSwich.AssemblyInfoInputs.cache
+C:\SourceCode\.Net-Course\Intro_IfElseSwich\Intro_IfElseSwich\obj\Debug\net6.0\Intro_IfElseSwich.AssemblyInfo.cs
+C:\SourceCode\.Net-Course\Intro_IfElseSwich\Intro_IfElseSwich\obj\Debug\net6.0\Intro_IfElseSwich.csproj.CoreCompileInputs.cache
+C:\SourceCode\.Net-Course\Intro_IfElseSwich\Intro_IfElseSwich\obj\Debug\net6.0\Intro_IfElseSwich.dll
+C:\SourceCode\.Net-Course\Intro_IfElseSwich\Intro_IfElseSwich\obj\Debug\net6.0\refint\Intro_IfElseSwich.dll
+C:\SourceCode\.Net-Course\Intro_IfElseSwich\Intro_IfElseSwich\obj\Debug\net6.0\Intro_IfElseSwich.pdb
+C:\SourceCode\.Net-Course\Intro_IfElseSwich\Intro_IfElseSwich\obj\Debug\net6.0\Intro_IfElseSwich.genruntimeconfig.cache
+C:\SourceCode\.Net-Course\Intro_IfElseSwich\Intro_IfElseSwich\obj\Debug\net6.0\ref\Intro_IfElseSwich.dll
